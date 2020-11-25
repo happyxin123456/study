@@ -6,8 +6,8 @@ CCTV-1综合,http://120.221.5.113:8089/PLTV/88888888/224/3221225859/index.m3u8
 
 CCTV-1综合,http://112.17.40.140/PLTV/88888888/224/3221226541/index.m3u8
 
-CCTV-1综合,http://121.31.30.87:8085/ysten-business/live/cctv-1/1.m3u
-8
+CCTV-1综合,http://121.31.30.87:8085/ysten-business/live/cctv-1/1.m3u8
+
 CCTV-1综合,http://scgctvshow.sctv.com/hdlive/cctv1/1.m3u8
 
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8
@@ -29,6 +29,7 @@ CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index
 CCTV-3综艺,http://112.17.40.140/PLTV/88888888/224/3221226485/index.m3u8
 
 CCTV-3综艺,http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+
 CCTV-3综艺,http://121.31.30.87:8085/ysten-business/live/cctv-3/1.m3u8
 
 CCTV-4国际,http://120.221.5.101:8089/PLTV/88888888/224/3221225757/index.m3u8
@@ -60,6 +61,7 @@ CCTV-7军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index
 CCTV-8电视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
 
 CCTV-8电视,http://39.134.168.91/PLTV/1/224/3221225562/index.m3u8
+
 CCTV-8电视,http://121.31.30.91:8085/ysten-business/live/cctv-8/1.m3u8
 
 CCTV-8电视,http://39.134.176.148/PLTV/88888888/224/3221226330/index.m3u8
