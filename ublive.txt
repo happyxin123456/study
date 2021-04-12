@@ -745,7 +745,7 @@ VOA美国之音,http://162.245.218.221/UBlive.php?id=495
 泰国-DDTV,http://162.245.218.221/UBlive.php?id=1138
 泰国-Thairath TV,http://162.245.218.221/UBlive.php?id=1139
 泰国-ChanneL8,http://162.245.218.221/UBlive.php?id=1140
-会员台_13579,#genre#
+会员台_12345,#genre#
 香蕉台,http://162.245.218.221/UBlive.php?id=408
 松視1,http://162.245.218.221/UBlive.php?id=402
 松視2,http://162.245.218.221/UBlive.php?id=403
