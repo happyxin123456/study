@@ -1,4 +1,4 @@
-
+河南移动,#genre#
 CCTV1HD,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8?stbId=10&channel-id=ystenlive
 CCTV1HD,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8?stbId=10&channel-id=ystenlive
 CCTV1HD,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226498/index.m3u8?stbId=10&channel-id=ystenlive
@@ -163,7 +163,7 @@ Newtv怡伴健康[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225571/in
 Newtv中国功夫[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8?stbId=10&channel-id=ystenlive
 </li>
 
-【超清】
+全网通,#genre#
 
 CCTV1[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=5000000010000030810&livemode=1&stbId=1&channel-id=bestzb
 CCTV1 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000021973&livemode=1&stbId=6&channel-id=ystenlive
