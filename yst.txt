@@ -205,10 +205,10 @@ CCTV-13超清,http://122.96.52.20/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8?p=GIT
 CCTV-14,http://122.96.52.20/gitv_live/G_CCTV-14/G_CCTV-14.m3u8?p=GITV&area=AH_CMCC
 CCTV-15,http://122.96.52.20/gitv_live/G_CCTV-15/G_CCTV-15.m3u8?p=GITV&area=AH_CMCC
 CCTV-NEWS,http://122.96.52.20/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8?p=GITV&area=AH_CMCC
-爱上4K 32M2160,http://[2409:8087:7001:20:1000::91]:6610/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC动作电影 8M1080,http://[2409:8087:7001:20:1000::91]:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=RR1961920220915071601794474
-CHC家庭影院 8M1080,http://[2409:8087:7001:20:1000::91]:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC高清电影 8M1080,http://[2409:8087:7001:20:1000::91]:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+爱上4K 32M2160,http://111.20.105.187:6610/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC动作电影 8M1080,http://111.20.105.187:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC家庭影院 8M1080,http://111.20.105.187:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC高清电影 8M1080,http://111.20.105.187:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 CETV-1,http://122.96.52.20/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV&area=AH_CMCC
 CETV-2,http://122.96.52.20/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV&area=AH_CMCC
