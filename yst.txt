@@ -164,70 +164,119 @@ Newtv中国功夫[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225604/in
 </li>
 
 全网通,#genre#
+CTV-1高清,http://122.96.52.20/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8?p=GITV&area=AH_CMCC
+CCTV-1,http://122.96.52.20/gitv_live/G_CCTV-1/G_CCTV-1.m3u8?p=GITV&area=AH_CMCC
+CCTV-1超清,http://122.96.52.20/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8?p=GITV&area=AH_CMCC
+CCTV2超清-GITV,http://122.96.52.20/gitv_live/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8?p=GITV&area=AH_CMCC
+CCTV-2,http://122.96.52.20/gitv_live/G_CCTV-2/G_CCTV-2.m3u8?p=GITV&area=AH_CMCC
 
-CCTV1[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=5000000010000030810&livemode=1&stbId=1&channel-id=bestzb
-CCTV1 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000021973&livemode=1&stbId=6&channel-id=ystenlive
-CCTV1 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000018602&livemode=1&stbId=6&channel-id=ystenlive
-CCTV1 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=5000000004000002226&livemode=1&stbId=10&channel-id=bestzb
-CCTV2 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000012442&livemode=1&stbId=10&channel-id=ystenlive
-CCTV2 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000023315&livemode=1&stbId=10&channel-id=ystenlive
-CCTV2 6M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=5353323539453949720&livemode=1&stbId=6&channel-id=ystenlive
+CCTV-3,http://122.96.52.20/gitv_live/CCTV-3/CCTV-3.m3u8?p=GITV&area=AH_CMCC
+cctv3综艺超清-8M,http://122.96.52.20/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8?p=GITV&area=AH_CMCC
+CCTV-3,http://122.96.52.20/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8?p=GITV&area=AH_CMCC
+cctv4中文国际超清-8M,http://122.96.52.20/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8?p=GITV&area=AH_CMCC
+CCTV-4,http://122.96.52.20/gitv_live/CCTV-4/CCTV-4.m3u8?p=GITV&area=AH_CMCC
+CCTV-4高清,http://122.96.52.20/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8?p=GITV&area=AH_CMCC
+CCTV-5,http://122.96.52.20/gitv_live/CCTV-5/CCTV-5.m3u8?p=GITV&area=AH_CMCC
+CCTV-5超清,http://122.96.52.20/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8?p=GITV&area=AH_CMCC
+CCTV-5,http://122.96.52.20/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8?p=GITV&area=AH_CMCC
 
-CCTV3 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000011218&livemode=1&stbId=6&channel-id=ystenlive
-CCTV3 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000013682&livemode=1&stbId=6&channel-id=ystenlive
-CCTV4 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000002000031664&livemode=1&stbId=6&channel-id=ystenlive
-CCTV5 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000004794&livemode=1&stbId=6&channel-id=ystenlive
-CCTV5+ 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000020505&livemode=1&stbId=6&channel-id=ystenlive
-CCTV6 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000016466&livemode=1&stbId=6&channel-id=ystenlive
-CCTV6 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000001737&livemode=1&stbId=6&channel-id=ystenlive
-CCTV7 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000017218&livemode=1&stbId=6&channel-id=ystenlive
-CCTV7 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000024341&livemode=1&stbId=6&channel-id=ystenlive
-CCTV8 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000003736&livemode=1&stbId=6&channel-id=ystenlive
-CCTV8 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000031433&livemode=1&stbId=6&channel-id=ystenlive
-CCTV9 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000028286&livemode=1&stbId=6&channel-id=ystenlive
-CCTV9 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000014583&livemode=1&stbId=6&channel-id=ystenlive
-CCTV10 2.5M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000026367&livemode=1&stbId=6&channel-id=ystenlive
-CCTV10 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000023734&livemode=1&stbId=6&channel-id=ystenlive
-CCTV11 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000002000019789&livemode=1&stbId=6&channel-id=ystenlive
-CCTV12 2.5M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000001640&livemode=1&stbId=6&channel-id=ystenlive
-CCTV12 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000032494&livemode=1&stbId=6&channel-id=ystenlive
-CCTV13 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000002000021303&livemode=1&stbId=6&channel-id=ystenlive
-CCTV14 2.5M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000021349&livemode=1&stbId=6&channel-id=ystenlive
-CCTV14 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000008170&livemode=1&stbId=6&channel-id=ystenlive
-CCTV15 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000002000008163&livemode=1&stbId=6&channel-id=ystenlive
-CCTV17 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000005000056836&livemode=1&stbId=6&channel-id=ystenlive
-北京卫视 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000017156&livemode=1&stbId=6&channel-id=ystenlive
-北京卫视 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000021288&livemode=1&stbId=6&channel-id=ystenlive
-东方卫视 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000030202&livemode=1&stbId=6&channel-id=ystenlive
-东方卫视 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000005866&livemode=1&stbId=6&channel-id=ystenlive
-天津卫视 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000003475&livemode=1&stbId=6&channel-id=ystenlive
-安徽卫视 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000020780&livemode=1&stbId=6&channel-id=ystenlive
-安徽卫视 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000030159&livemode=1&stbId=6&channel-id=ystenlive
-江苏卫视 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000004684&livemode=1&stbId=6&channel-id=ystenlive
-江苏卫视 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000001828&livemode=1&stbId=6&channel-id=ystenlive
-浙江卫视 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000009806&livemode=1&stbId=6&channel-id=ystenlive
-浙江卫视 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000014260&livemode=1&stbId=6&channel-id=ystenlive
-湖南卫视 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000009115&livemode=1&stbId=6&channel-id=ystenlive
-湖南卫视 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000032695&livemode=1&stbId=6&channel-id=ystenlive
-海南卫视 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=5000000004000006211&livemode=1&stbId=10&channel-id=bestzb
-深圳卫视 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000011645&livemode=1&stbId=6&channel-id=ystenlive
-深圳卫视 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000009227&livemode=1&stbId=6&channel-id=ystenlive
-天津卫视 720[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=8798367982904688776&livemode=1&stbId=6&channel-id=ystenlive
-天津卫视 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000000831&livemode=1&stbId=6&channel-id=ystenlive
-重庆卫视 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000002000018937&livemode=1&stbId=6&channel-id=ystenlive
-广东卫视 720[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=6604532991586541024&livemode=1&stbId=6&channel-id=ystenlive
-广东卫视 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000028357&livemode=1&stbId=6&channel-id=ystenlive
-广东卫视 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000014176&livemode=1&stbId=6&channel-id=ystenlive
-东南卫视 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000002000009263&livemode=1&stbId=6&channel-id=ystenlive
-山东卫视 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000012807&livemode=1&stbId=6&channel-id=ystenlive
-江西卫视 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000013731&livemode=1&stbId=6&channel-id=ystenlive
-辽宁卫视 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000002000024033&livemode=1&stbId=6&channel-id=ystenlive
-湖北卫视[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=5000000010000022140&livemode=1&stbId=10&channel-id=bestzb
-湖北卫视 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000010355&livemode=1&stbId=6&channel-id=ystenlive
-湖北卫视 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000024621&livemode=1&stbId=6&channel-id=ystenlive
-黑龙江卫视 720[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=8467838254824392379&livemode=1&stbId=6&channel-id=ystenlive
-黑龙江卫视 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000009082&livemode=1&stbId=6&channel-id=ystenlive
-黑龙江卫视 8M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000001925&livemode=1&stbId=6&channel-id=ystenlive
+CCTV-5,http://122.96.52.20/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8?p=GITV&area=AH_CMCC
+
+cctv5P体育赛事超清,http://122.96.52.20/gitv_live/G_CCTV-5PLUS-HD/G_CCTV-5PLUS-HD.m3u8?p=GITV&area=AH_CMCC
+CCTV-5+高清,http://122.96.52.20/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8?p=GITV&area=AH_CMCC
+CCTV-6,http://122.96.52.20/gitv_live/CCTV-6/CCTV-6.m3u8?p=GITV&area=AH_CMCC
+cctv6电影超清-8M,http://122.96.52.20/gitv_live/G_CCTV-6-HQ/G_CCTV-6-HQ.m3u8?p=GITV&area=AH_CMCC
+CCTV-6高清,http://122.96.52.20/gitv_live/G_CCTV-6-HD/G_CCTV-6-HD.m3u8?p=GITV&area=AH_CMCC
+CCTV-7超清,http://122.96.52.20/gitv_live/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8?p=GITV&area=AH_CMCC
+CCTV-7,http://122.96.52.20/gitv_live/CCTV-7/CCTV-7.m3u8?p=GITV&area=AH_CMCC
+CCTV-8高清,http://122.96.52.20/gitv_live/G_CCTV-8-HD/G_CCTV-8-HD.m3u8?p=GITV&area=AH_CMCC
+CCTV-8,http://122.96.52.20/gitv_live/G_CCTV-8/G_CCTV-8.m3u8?p=GITV&area=AH_CMCC
+cctv8电视剧超清-8M,http://122.96.52.20/gitv_live/G_CCTV-8-CQ/G_CCTV-8-CQ.m3u8?p=GITV&area=AH_CMCC
+CCTV-9,http://122.96.52.20/gitv_live/G_CCTV-9/G_CCTV-9.m3u8?p=GITV&area=AH_CMCC
+CCTV-10,http://122.96.52.20/gitv_live/CCTV-10/CCTV-10.m3u8?p=GITV&area=AH_CMCC
+CCTV-11,http://122.96.52.20/gitv_live/CCTV-11/CCTV-11.m3u8?p=GITV&area=AH_CMCC
+CCTV-12,http://122.96.52.20/gitv_live/CCTV-12/CCTV-12.m3u8?p=GITV&area=AH_CMCC
+CCTV-13,http://122.96.52.20/gitv_live/CCTV-13/CCTV-13.m3u8?p=GITV&area=AH_CMCC
+CCTV-13超清,http://122.96.52.20/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8?p=GITV&area=AH_CMCC
+CCTV-14,http://122.96.52.20/gitv_live/G_CCTV-14/G_CCTV-14.m3u8?p=GITV&area=AH_CMCC
+CCTV-15,http://122.96.52.20/gitv_live/G_CCTV-15/G_CCTV-15.m3u8?p=GITV&area=AH_CMCC
+CCTV-NEWS,http://122.96.52.20/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8?p=GITV&area=AH_CMCC
+
+
+CETV-1,http://122.96.52.20/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV&area=AH_CMCC
+CETV-2,http://122.96.52.20/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV&area=AH_CMCC
+
+CETV-4,http://122.96.52.20/gitv_live/G_CETV-4/G_CETV-4.m3u8?p=GITV&area=AH_CMCC
+CETV-3,http://122.96.52.20/gitv_live/G_CETV-3/G_CETV-3.m3u8?p=GITV&area=AH_CMCC
+浙江卫视高清,http://122.96.52.20/gitv_live/ZJWS-HD/ZJWS-HD.m3u8?p=GITV&area=AH_CMCC
+江苏卫视高清,http://122.96.52.20/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8?p=GITV&area=AH_CMCC
+湖南卫视高清,http://122.96.52.20/gitv_live/HNWS-HD/HNWS-HD.m3u8?p=GITV&area=AH_CMCC
+东方卫视高清,http://122.96.52.20/gitv_live/DFWS-HD/DFWS-HD.m3u8?p=GITV&area=AH_CMCC
+北京卫视高清,http://122.96.52.20/gitv_live/BTV-1/BTV-1.m3u8?p=GITV&area=AH_CMCC
+广东卫视高清,http://122.96.52.20/gitv_live/GDWS-HD/GDWS-HD.m3u8?p=GITV&area=AH_CMCC
+黑龙江卫视高清,http://122.96.52.20/gitv_live/HLJWS-HD/HLJWS-HD.m3u8?p=GITV&area=AH_CMCC
+深圳卫视高清,http://122.96.52.20/gitv_live/SZWS-HD/SZWS-HD.m3u8?p=GITV&area=AH_CMCC
+安徽卫视,http://122.96.52.20/gitv_live/AHWS/AHWS.m3u8?p=GITV&area=AH_CMCC
+辽宁卫视,http://122.96.52.20/gitv_live/LNWS/LNWS.m3u8?p=GITV&area=AH_CMCC
+山东卫视,http://122.96.52.20/gitv_live/SDWS/SDWS.m3u8?p=GITV&area=AH_CMCC
+广西卫视,http://122.96.52.20/gitv_live/GXWS/GXWS.m3u8?p=GITV&area=AH_CMCC
+旅游卫视,http://122.96.52.20/gitv_live/LYWS/LYWS.m3u8?p=GITV&area=AH_CMCC
+重庆卫视,http://122.96.52.20/gitv_live/G_CHONGQING/G_CHONGQING.m3u8?p=GITV&area=AH_CMCC
+四川卫视,http://122.96.52.20/gitv_live/SCWS/SCWS.m3u8?p=GITV&area=AH_CMCC
+河南卫视,http://122.96.52.20/gitv_live/HENAN/HENAN.m3u8?p=GITV&area=AH_CMCC
+东南卫视,http://122.96.52.20/gitv_live/DNWS/DNWS.m3u8?p=GITV&area=AH_CMCC
+天津卫视,http://122.96.52.20/gitv_live/TJWS/TJWS.m3u8?p=GITV&area=AH_CMCC
+江西卫视,http://122.96.52.20/gitv_live/JXWS/JXWS.m3u8?p=GITV&area=AH_CMCC
+湖北卫视,http://122.96.52.20/gitv_live/G_HUBEI/G_HUBEI.m3u8?p=GITV&area=AH_CMCC
+天津卫视(高清),http://122.96.52.20/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8?p=GITV&area=AH_CMCC
+吉林卫视,http://122.96.52.20/gitv_live/G_JILIN/G_JILIN.m3u8?p=GITV&area=AH_CMCC
+山西卫视,http://122.96.52.20/gitv_live/SXWS/SXWS.m3u8?p=GITV&area=AH_CMCC
+贵州卫视,http://122.96.52.20/gitv_live/G_GUIZHOU/G_GUIZHOU.m3u8?p=GITV&area=AH_CMCC
+青海卫视,http://122.96.52.20/gitv_live/G_QINGHAI/G_QINGHAI.m3u8?p=GITV&area=AH_CMCC
+内蒙古卫视,http://122.96.52.20/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8?p=GITV&area=AH_CMCC
+云南卫视,http://122.96.52.20/gitv_live/G_YUNNAN/G_YUNNAN.m3u8?p=GITV&area=AH_CMCC
+河北卫视,http://122.96.52.20/gitv_live/G_HEBEI/G_HEBEI.m3u8?p=GITV&area=AH_CMCC
+宁夏卫视,http://122.96.52.20/gitv_live/G_NINGXIA/G_NINGXIA.m3u8?p=GITV&area=AH_CMCC
+新疆卫视,http://122.96.52.20/gitv_live/G_XINJIANG/G_XINJIANG.m3u8?p=GITV&area=AH_CMCC
+甘肃卫视,http://122.96.52.20/gitv_live/G_GANSU/G_GANSU.m3u8?p=GITV&area=AH_CMCC
+西藏卫视,http://122.96.52.20/gitv_live/G_XIZANG/G_XIZANG.m3u8?p=GITV&area=AH_CMCC
+优漫卡通,http://122.96.52.20/gitv_live/G_YOUMAN/G_YOUMAN.m3u8?p=GITV&area=AH_CMCC
+
+浙江卫视,http://122.96.52.20/gitv_live/G_ZHEJIANG/G_ZHEJIANG.m3u8?p=GITV&area=AH_CMCC
+
+江苏卫视,http://122.96.52.20/gitv_live/JSWS-HD/JSWS-HD.m3u8?p=GITV&area=AH_CMCC
+辽宁卫视高清,http://122.96.52.20/gitv_live/G_LIAONING-HD/G_LIAONING-HD.m3u8?p=GITV&area=AH_CMCC
+湖北卫视高清,http://122.96.52.20/gitv_live/G_HUBEI-HD/G_HUBEI-HD.m3u8?p=GITV&area=AH_CMCC
+湖南卫视,http://122.96.52.20/gitv_live/G_HUNAN/G_HUNAN.m3u8?p=GITV&area=AH_CMCC
+重庆卫视高清,http://122.96.52.20/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8?p=GITV&area=AH_CMCC
+东方卫视,http://122.96.52.20/gitv_live/G_DONGFANG/G_DONGFANG.m3u8?p=GITV&area=AH_CMCC
+北京卫视,http://122.96.52.20/gitv_live/G_BEIJING/G_BEIJING.m3u8?p=GITV&area=AH_CMCC
+广东卫视,http://122.96.52.20/gitv_live/G_GUANGDONG/G_GUANGDONG.m3u8?p=GITV&area=AH_CMCC
+深圳卫视,http://122.96.52.20/gitv_live/G_SHENZHEN/G_SHENZHEN.m3u8?p=GITV&area=AH_CMCC
+卡酷少儿,http://122.96.52.20/gitv_live/G_KAKU/G_KAKU.m3u8?p=GITV&area=AH_CMCC
+金鹰卡通,http://122.96.52.20/gitv_live/G_JINYING/G_JINYING.m3u8?p=GITV&area=AH_CMCC
+兵团卫视,http://122.96.52.20/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8?p=GITV&area=AH_CMCC
+南方卫视（广东）,http://122.96.52.20/gitv_live/G_NANFANG/G_NANFANG.m3u8?p=GITV&area=AH_CMCC
+厦门卫视,http://122.96.52.20/gitv_live/G_XIAMEN/G_XIAMEN.m3u8?p=GITV&area=AH_CMCC
+
+山东卫视高清,http://122.96.52.20/gitv_live/G_SHANDONG-HD/G_SHANDONG-HD.m3u8?p=GITV&area=AH_CMCC
+
+延边卫视,http://122.96.52.20/gitv_live/G_YANBIAN/G_YANBIAN.m3u8?p=GITV&area=AH_CMCC
+
+安徽卫视超清,http://122.96.52.20/gitv_live/G_ANHUI-CQ/G_ANHUI-CQ.m3u8?p=GITV&area=AH_CMCC
+浙江卫视超清,http://122.96.52.20/gitv_live/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ.m3u8?p=GITV&area=AH_CMCC
+江苏卫视超清,http://122.96.52.20/gitv_live/G_JIANGSU-CQ/G_JIANGSU-CQ.m3u8?p=GITV&area=AH_CMCC
+北京卫视超清-8M,http://122.96.52.20/gitv_live/G_BEIJING-CQ/G_BEIJING-CQ.m3u8?p=GITV&area=AH_CMCC
+湖南卫视超清-8M,http://122.96.52.20/gitv_live/G_HUNAN-CQ/G_HUNAN-CQ.m3u8?p=GITV&area=AH_CMCC
+东方卫视超清-8M,http://122.96.52.20/gitv_live/G_DONGFANG-CQ/G_DONGFANG-CQ.m3u8?p=GITV&area=AH_CMCC
+广东卫视超清-8M,http://122.96.52.20/gitv_live/G_GUANGDONG-CQ/G_GUANGDONG-CQ.m3u8?p=GITV&area=AH_CMCC
+山东卫视超清-8M,http://122.96.52.20/gitv_live/G_SHANDONG-CQ/G_SHANDONG-CQ.m3u8?p=GITV&area=AH_CMCC
+天津卫视超清-8M,http://122.96.52.20/gitv_live/G_TIANJIN-CQ/G_TIANJIN-CQ.m3u8?p=GITV&area=AH_CMCC
+辽宁卫视超清-8M,http://122.96.52.20/gitv_live/G_LIAONING-CQ/G_LIAONING-CQ.m3u8?p=GITV&area=AH_CMCC
+黑龙江卫视超清-8M,http://122.96.52.20/gitv_live/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ.m3u8?p=GITV&area=AH_CMCC
+湖北卫视超清-8M,http://122.96.52.20/gitv_live/G_HUBEI-CQ/G_HUBEI-CQ.m3u8?p=GITV&area=AH_CMCC
+深圳卫视超清-8M,http://122.96.52.20/gitv_live/G_SHENZHEN-CQ/G_SHENZHEN-CQ.m3u8?p=GITV&area=AH_CMCC
+
 黑莓电竞 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000003775&livemode=1&stbId=6&channel-id=ystenlive
 黑莓电竞 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000001000006906&livemode=1&stbId=6&channel-id=ystenlive
 黑莓电竞 4M1080[1920*1080],http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=5320946857686967621&livemode=1&stbId=6&channel-id=ystenlive
