@@ -1,5 +1,5 @@
 河南移动,#genre#
-河南移动,#genre#
+
 CCTV1HD,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 CCTV1HD,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 CCTV1HD,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226498/index.m3u8
